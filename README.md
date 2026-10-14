@@ -4,7 +4,7 @@ GhostFaces is a large-scale facial recognition pipeline designed to address the 
 ## 📁 Repository Structure
 1) ToyModel.ipynb: The core Jupyter Notebook containing data ingestion, Thin SVD mathematical extraction, and SVM classification.
 2) main.ipynb: The updated Jupyter Notebook in which the model and pipeline has been modified to handle thousands of messy, real world data.
-3) grayfaces/: The directory storing the labelled images (already in grayface) used to train and test the protype model.
+3) grayfaces/: The directory storing the labelled images (already in grayface) used to train and test the protoype model.
 4) faceset/: The directory storing unconstrained facial images organized by individual identities (e.g., Aaron_Peirsol, Abdullah_Gul, Angelina_Jolie).   
 
 ## ⚙️ Methodology & Pipeline
